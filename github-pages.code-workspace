@@ -1,1 +1,11 @@
-
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.CustomBrowser": "chrome:PrivateMode"
+	}
+}
+© 2022 GitHub, Inc.
